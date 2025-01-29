@@ -1,0 +1,6 @@
+﻿  main game.cpp
+D:\uni\1\projects\ahad\ahad\main game.cpp(31,41): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\uni\1\projects\ahad\ahad\main game.cpp(37,45): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\uni\1\projects\ahad\ahad\main game.cpp(193,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\uni\1\projects\ahad\ahad\main game.cpp(200,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ahad.vcxproj -> D:\uni\1\projects\ahad\x64\Debug\ahad.exe
